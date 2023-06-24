@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - My New Hugo Site</title>
+        <link>http://example.org/posts/</link>
+        <description>All Posts | My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 24 Jun 2023 20:23:10 &#43;0700</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>http://example.org/posts/first_post/</link>
+    <pubDate>Sat, 24 Jun 2023 20:23:10 &#43;0700</pubDate>
+    <author>Kiet Nguyen</author>
+    <guid>http://example.org/posts/first_post/</guid>
+    <description><![CDATA[H2 heading H3 heading H4 heading H5 heading Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus. Et legere ocurreret pri, animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis concludaturque ei qui, vide sensibus vim ad.
+concludaturque ei qui, vide sensibus vim ad.
+In this example, &lt;section&gt;&lt;/section&gt; should be wrapped as code.
+Sample text here... Option Description data path to data files to supply the data that will be passed into templates.]]></description>
+</item>
+</channel>
+</rss>
